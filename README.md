@@ -1,1 +1,1 @@
-This version of study room conversations simulate the basic access and greetings to children. 
+This version of study room conversations simulate the basic access and greetings to children. We need to run main.py, in order to execute the entire program. The whole program is written and refactored by Google AI.
